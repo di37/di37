@@ -27,6 +27,7 @@ At work, I thrive on creating impactful AI products 💡, and in my personal tim
 
 ### Infrastructure:
 - **Database:** MongoDB, MySQL, PostgreSQL 🗄️
+- **Vector Database:** FAISS, ChromaDB, Pinecone ↗
 - **Version Control:** GitHub 🔄
 - **Infrastructure as Code:** Terraform 🏗️
 - **Containerization:** Docker 📦
