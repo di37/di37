@@ -33,9 +33,4 @@ At work, I thrive on creating impactful AI products 💡, and in my personal tim
 ### Project Management:
 - **Project Management Tools:** Jira, Notion 📋
 
-## 📫 Let's Connect
-
-- LinkedIn: [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/isham-rashik-5a547711b/)
-- Twitter: [[Your Portfolio URL]](https://twitter.com/AiMan_993)
-
 Feel free to explore my repositories and contributions. I'm always eager to collaborate on exciting machine learning projects and discuss innovative ideas!
