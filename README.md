@@ -18,11 +18,12 @@ At work, I thrive on creating impactful AI products 💡, and in my personal tim
 ### Data Processing & Visualization:
 - **Data Analysis and Manipulation:** Pandas 🐼, Numpy, Scipy, Excel 📈
 - **Data Visualization:** Tableau, Power BI, Excel Charts, Jupyter Notebook, Plotly, Seaborn, Klib 📉
+- **Video & Audio Processing:** TorchAudio, FFMPEG, PyDub 🎧
 
 ### Web & API:
 - **Web Scraping:** Requests, BeautifulSoup, Selenium 🕸️
 - **API Endpoints:** FastAPI, AWS, HuggingFace Space 🌐
-- **Video & Audio Processing:** TorchAudio, FFMPEG, PyDub 🎧
+- **Interactive Dashboards and Interfaces:** Streamlit, Gradio 🖥️
 
 ### Infrastructure:
 - **Database:** MongoDB, MySQL, PostgreSQL 🗄️
