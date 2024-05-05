@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Isham!
 
-I am a dedicated Machine Learning Engineer with a strong track record in developing and deploying AI-powered solutions 🚀. My expertise spans machine learning, deep learning algorithms, and prompt engineering, enabling me to tackle complex challenges across various domains. 
+I am a dedicated Machine Learning Engineer / Artificial Intelligence Researcher with a strong track record in developing and deploying AI-powered solutions 🚀. My expertise spans machine learning, deep learning algorithms, and prompt engineering, enabling me to tackle complex challenges across various domains. 
 
 At work, I thrive on creating impactful AI products 💡, and in my personal time, I'm passionate about building and sharing projects. These side projects are not just demonstrations but are designed as tutorials for others to learn from and build their own AI applications 🤖. Join me in exploring the possibilities of AI!
 
