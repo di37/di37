@@ -26,7 +26,8 @@ At work, I thrive on creating impactful AI products 💡, and in my personal tim
 - **Interactive Dashboards and Interfaces:** Streamlit, Gradio 🖥️
 
 ### Infrastructure:
-- **Database:** MongoDB, MySQL, PostgreSQL 🗄️
+- **Relational Database:** MongoDB, MySQL, PostgreSQL 🗄️
+- **Graph Database:** SparQL, Neo4J 🕸️ 
 - **Vector Database:** FAISS, ChromaDB, Pinecone ↗
 - **Version Control:** GitHub 🔄
 - **Infrastructure as Code:** Terraform 🏗️
