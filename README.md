@@ -26,4 +26,5 @@ At work, I thrive on creating impactful AI products 💡, and in my personal tim
 - **Containerization:** Docker 📦
 ### Project Management:
 - **Project Management Tools:** Jira, Notion 📋
+
 Feel free to explore my repositories and contributions. I'm always eager to collaborate on exciting machine learning projects and discuss innovative ideas!
